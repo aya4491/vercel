@@ -1,5 +1,11 @@
 # vercel
 
+## 49.2.0
+
+### Minor Changes
+
+- Improves `env pull` with conditional quoting of environment variables ([#14402](https://github.com/vercel/vercel/pull/14402))
+
 ## 49.1.2
 
 ### Patch Changes
